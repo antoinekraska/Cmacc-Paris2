@@ -10,6 +10,8 @@ Register.RegistrationNumber=34567876543
 
 Name.Full=Quake Inc.
 
+Name.Given=Quake
+
 Adr.Type=principal
 
 Adr.1=233 Curtis Street

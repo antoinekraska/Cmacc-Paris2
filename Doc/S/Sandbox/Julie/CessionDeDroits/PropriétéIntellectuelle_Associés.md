@@ -1,5 +1,8 @@
 Doc.Ti=CONTRAT DE CESSION DE DROITS DE PROPRIÉTÉ INTELLECTUELLE ( ASSOCIÉ ) 
+
+P1.Handle=Cédant
  
+P2.Handle=Cessionnaire
 
 _______________________________________________________
 DELETE:

@@ -2,7 +2,13 @@ entity=legal person
 
 entity.a=a {entity}
 
-Among.Block={Among.Alt2.Block}
+Among.EN.=[Z/Agt/EN/Among/Entity/0.md]
+
+Sign.EN.=[Z/Agt/EN/Sign/Entity/0.md]
+
+Among.FR.=[Z/Agt/FR/Among/Entity/0.md]
+
+Sign.FR.=[Z/Agt/FR/Sign/Entity/0.md]
 
 For French:
 
