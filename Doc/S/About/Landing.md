@@ -62,13 +62,13 @@ Bqc.Link=<a href="http://www.commonaccord.org/index.php?action=list&file=/bqc/fr
 
 BfmPodcast.Link=<a href="http://bfmbusiness.bfmtv.com/mediaplayer/audio/bfm-1106-atelier-numerique-16h-17h-340233.html">Interview BFM</a>
 
-DemoDocName=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md
+
 
 DocumentsFolder.sec=<a href="index.php?action=list&file=/">Top level</a> folder of files.
 
 SubjectIndex.Sec=<a href="index.php?action=list&file=/S/Index/">Subject Index</a> of (some) materials.
 
-RecentWork.=[S/About/RecentWork/0.md]
+
 
 TwitterBlock.sec=<a class="twitter-timeline" href="https://twitter.com/CommonAccord/with_replies" data-widget-id="574817616360964096" width="600" height="300">Tweets by @CommonAccord</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
