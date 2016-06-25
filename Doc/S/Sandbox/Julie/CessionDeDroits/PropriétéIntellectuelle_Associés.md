@@ -1,4 +1,11 @@
-Ti=CONTRAT DE CESSION DE DROITS DE PROPRIÉTÉ INTELLECTUELLE ( ASSOCIÉ ) 
+Doc.Ti=CONTRAT DE CESSION DE DROITS DE PROPRIÉTÉ INTELLECTUELLE ( ASSOCIÉ ) 
+
+P1.Handle=Cédant
+ 
+P2.Handle=Cessionnaire
+
+_______________________________________________________
+DELETE:
 0.1.sec=ENTRE LES SOUSSIGNÉ(E)S :<br><br>
 0.2.sec=Monsieur ou Madame {Nom_Prénom}
 0.3.sec=Né(e) le {Date_Naissance} à {Lieu_Naissance}
@@ -16,13 +23,25 @@ Ti=CONTRAT DE CESSION DE DROITS DE PROPRIÉTÉ INTELLECTUELLE ( ASSOCIÉ )
 0.15.sec=Ci-après dénommée le "Cessionnaire", 
 0.16.sec=D'autre part, 
 0.17.sec=Ci-après individuellement ou collectivement désigné(s) la ou les Partie(s)
+
 0.18.sec=Etant préalablement rappelé que :<br><br>
-0.19.sec=- Le Cédant est un des associés du Cessionnaire.
-0.20.sec=- Dans le cadre de sa participation en tant qu'associé, le Cédant sera amené à réaliser des travaux susceptibles d'être protégés par un droit de propriété intellectuelle.
-0.21.sec=- Il est ainsi apparu nécessaire aux Parties que les droits de propriété y afférents soient cédés au Cessionnaire.
-0.22.sec=- Les Parties se sont donc rapprochées pour formaliser la présente cession.<br><br>
+
 0.23.sec=Il a été convenu ce qui suit :<br><br>
-0.=[Z/paras/s23]
+/0.=[Z/paras/s23]
+
+/DELETE
+_____________________________________________________________
+
+Why.1.sec=- Le Cédant est un des associés du Cessionnaire.
+
+Why.2.sec=- Dans le cadre de sa participation en tant qu'associé, le Cédant sera amené à réaliser des travaux susceptibles d'être protégés par un droit de propriété intellectuelle.
+
+Why.3.sec=- Il est ainsi apparu nécessaire aux Parties que les droits de propriété y afférents soient cédés au Cessionnaire.
+
+Why.4.sec=- Les Parties se sont donc rapprochées pour formaliser la présente cession.<br><br>
+
+Why.=[Z/paras/s4]
+
 1.0.sec= Objet de la cession<br><br>
 1.1.sec=Par les présentes, le Cédant cède au Cessionnaire, sans restriction ni réserve, l'intégralité des droits d'auteur relatifs aux logiciels qu'il pourra réaliser dans l'exercice de ses fonctions et missions (ci-après dénommés les « Logiciels »), tel que ces droits sont énumérés ci-dessous, à savoir :<br><br>
 1.2.sec=- Le droit de reproduction et d'utilisation des Logiciels pour quelque usage que ce soit, par tous moyens, notamment internet, sur tous supports, existants ou à venir, prévisibles ou imprévisibles, et pour toute exploitation ;<br><br>
@@ -64,9 +83,9 @@ Ti=CONTRAT DE CESSION DE DROITS DE PROPRIÉTÉ INTELLECTUELLE ( ASSOCIÉ )
 5.0.sec=Loi applicable et juridiction<br><br> 
 5.1.sec= Le présent contrat est soumis au droit français et sera régi et interprété selon ce droit.
 5.2.sec= Tout litige pouvant naître à l'occasion de sa validité, de son interprétation ou de son exécution sera soumis à la compétence exclusive des Tribunaux de Paris, sauf règle de procédure impérative contraire.
-5.3.sec= Fait à {ville}, le {date},
-5.4.sec= En deux exemplaires originaux.
-5.5.sec= Pour le Cédant {Nom_prénom_signataire}
-5.6.sec= Pour le Cessionnaire{Nom_prénom_signataire}
-5.=[Z/ol-none/s6]
-=[Z/ol/s5]   
+
+5.=[Z/paras/s2]
+
+=[Z/Agt/FR/0.md]
+
+=[Z/ol/s5]

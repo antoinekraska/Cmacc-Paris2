@@ -1,3 +1,11 @@
+Among.EN.=[Z/Agt/EN/Among/Individual/0.md]
+
+Sign.EN.=[Z/Agt/EN/Sign/Individual/0.md]
+
+Among.FR.=[Z/Agt/FR/Among/Individual/0.md]
+
+Sign.FR.=[Z/Agt/FR/Sign/Individual/0.md]
+
 entity=individual
 
 entity.a=an {entity}
