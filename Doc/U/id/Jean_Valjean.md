@@ -1,15 +1,15 @@
-Nom.1=Jean
+Name.First=Jean
 
-Nom.3=Valjean
+Name.Last=Valjean
 
 M/Mme=M.
 
 Adresse.1=1bis chemin de l'île Flottant
 
-Adresse.Ville=Paris
+Adr.City=Paris
 
-Adresse.CP=75001
+Adr.Zip=75001
 
 Adr.Type=residential
 
-=[U/class/FR_Individu.md]
+=[U/class/ID_He]
