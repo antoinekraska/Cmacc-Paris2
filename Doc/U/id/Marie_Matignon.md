@@ -1,15 +1,23 @@
-Nom.1=Marie
+Name.First=Marie
 
-Nom.3=Matignon
+Name.Last=Matignon
 
 M/Mme=Mme.
 
-Adresse.1=100 rue du grand chemin
+Handle=Mme Matignon
 
-Adresse.2=75022 Paris
+Adr.1=100 rue du grand chemin
 
-Adresse.Paye=France
+Adr.Zip=75022 
+
+Adr.City=Paris
+
+Adr.Nation=France
+
+Adr.ST=</i>
+
+Adr.Type=residential
 
 Email=marie@matignon.fr
 
-=[U/class/FR_Individu.md]
+=[U/class/ID_She]
