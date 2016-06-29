@@ -36,7 +36,7 @@ IntroductionEnglish.sec=<b>Overview:</b><ul><li>{AboutUs.sec}<li>{CmAbqc.sec}<li
 
 AboutUs.sec= Hello There ! We are a group of French Students at Paris II Assas University seeking to make a change and currently collaborating with Common Accord ! 
 
-CmAbqc.sec= <a href="http://commonaccord.org">If you want to look further into Common Accord's work</a>
+CmAbqc.sec= <a href="http://commonaccord.org">If you want to look further into CommonAccord's work</a>
 
 WhatWeDo.sec=We have already started working on different types of files and documents. Our work mostly consists in converting them as well as automatizing those files. You can therefore look into <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/Jurismatic/">Jurismatic</a> as well as <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/WeAgree/">WeAgree</a> to see what we have done so far ! 
 
@@ -48,7 +48,7 @@ Slack.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Join us on our "Fresh
 
 SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{Views.List.sec}<li>{PageSource.sec}</ul>
 
-Views.List.sec=Each file on the site has six "views": <a href="index.php?action=source&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">Source</a>.  E.g., click on <a href="index.php?action=doc&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">"Document"</a>.
+Views.List.sec=You should probably go <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/">here</a> 
 
 PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance): <a href="index.php?action=source&file=S/About/Landing.md">Landing Page Source</a>.
 
