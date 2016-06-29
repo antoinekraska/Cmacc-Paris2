@@ -21,5 +21,5 @@ Much of "the law" is a set of naming conventions for shared ideas. So is the web
 
 </ul>
 
-A place to start might be: <a href="index.php?action=list&file=Dx/Acme/">Acme</a>.
+A place to start might be: <a href="index.php?action=list&file=//GH/Paris2/">Paris2</a>.
  
