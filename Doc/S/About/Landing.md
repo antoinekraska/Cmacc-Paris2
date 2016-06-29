@@ -10,26 +10,26 @@ Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td><td valign=
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec=<b>Overview:</b><ul><li>{AboutUs.sec}<li>{CmAbqc.sec}<li>{WhatWeDo.sec}<li>{HelpUs.sec}<li>{Slack.sec}</ul>
+Introduction.sec=<b>Présentation:</b><ul><li>{AboutUs.sec}<li>{CmAbqc.sec}<li>{WhatWeDo.sec}<li>{HelpUs.sec}<li>{Slack.sec}</ul>
 
-AboutUs.sec=
-
-
-CmAbqc.sec=<a href="http://commonaccord.org">Know more about CommonAccord</a>
+AboutUs.sec=Bienvenue sur notre page! Nous sommes un groupe d’étudiants du Collège de Droit de l’Université Paris II Panthéon-Assas et participons au projet de CommonAccord.
 
 
-HelpUs.sec=
+CmAbqc.sec=<a href="http://commonaccord.org">En savoir plus sur CommonAccord</a>
 
 
-Slack.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Join our "Fresh" Slack group!</a>
+HelpUs.sec=Nous débarquons tout juste dans le monde du droit. De ce fait, votre aide et vos commentaires, critiques, orientations, sont les bienvenues!
+
+
+Slack.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Rejoignez notre groupe "Fresh" sur Slack.</a>
 
 
 WhatWeDo.sec={Code-ify.sec}<li>{OnGitHub.sec}
 
-Code-ify.sec=We "code-ify" them by treating them like software source code - files in folders shared on GitHub.  Code-ifying is neither hard nor complicated.  The infrastructure is robust, widely-used, and free.  The form documents will converge into legal codes of transacting.
+Code-ify.sec=Nous avons commencé à travailler sur quelques documents en les convertissant et automatisant. Vous pouvez jeter un coup d'oeil aux documents <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/Jurismatic/">Jurismatic</a> et <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/WeAgree/">WeAgree</a>.
 
 
-OnGitHub.sec=All of the text, and the little bit of code that brings it together, is on <a href="http://github.com/CommonAccord/Cmacc-Paris2">GitHub</a>.
+OnGitHub.sec=Tous les textes se trouvent sur <a href="http://github.com/CommonAccord/Cmacc-Paris2">GitHub</a>.
 
 
 SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{Views.List.sec}<li>{PageSource.sec}</ul>
