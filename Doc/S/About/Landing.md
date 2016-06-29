@@ -8,28 +8,41 @@ Site.Name=Deux.CommonAccord.Org
 
 Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td><td valign="top"><b>Some Links:</b><br><a href="https://cmacc-slack-add.herokuapp.com/">Join our "Fresh" Slack group!</a><br>{TwitterBlock.sec}<br><br><b><a href="https://github.com/CommonAccord/Cmacc-Paris2/commits/master">Latest Activity on GitHub</a></b><br><br>{DocumentsFolder.sec}<br>{SubjectIndex.Sec}<br>{RecentWork.Sec}</td></tr></table>
 
-Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
+Intro.Sec={IntroductionFrench.sec}<br>{IntroductionEnglish.sec}<br>{SiteLinks.Sec}
 
-Introduction.sec=<b>Présentation:</b><ul><li>{AboutUs.sec}<li>{CmAbqc.sec}<li>{WhatWeDo.sec}<li>{HelpUs.sec}<li>{Slack.sec}</ul>
+IntroductionFrench.sec=<b>Présentation:</b><ul><li>{APropos.sec}<li>{Cmacc-fr.sec}<li>{Travail.sec}<li>{Aide.sec}<li>{Slack-fr.sec}</ul>
 
-AboutUs.sec=Bienvenue sur notre page! Nous sommes un groupe d’étudiants du Collège de Droit de l’Université Paris II Panthéon-Assas et participons au projet de CommonAccord.
-
-
-CmAbqc.sec=<a href="http://commonaccord.org">En savoir plus sur CommonAccord</a>
+APropos.sec=Bienvenue sur notre page! Nous sommes un groupe d’étudiants du Collège de Droit de l’Université Paris II Panthéon-Assas et participons au projet de CommonAccord.
 
 
-HelpUs.sec=Nous débarquons tout juste dans le monde du droit. De ce fait, votre aide et vos commentaires, critiques, orientations, sont les bienvenues!
+Cmacc-fr.sec=<a href="http://commonaccord.org">En savoir plus sur CommonAccord</a>
 
 
-Slack.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Rejoignez notre groupe "Fresh" sur Slack.</a>
+Aide.sec=Nous débarquons tout juste dans le monde du droit. De ce fait, votre aide et vos commentaires, critiques, orientations, sont les bienvenues!
 
 
-WhatWeDo.sec={Code-ify.sec}<li>{OnGitHub.sec}
-
-Code-ify.sec=Nous avons commencé à travailler sur quelques documents en les convertissant et automatisant. Vous pouvez jeter un coup d'oeil aux documents <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/Jurismatic/">Jurismatic</a> et <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/WeAgree/">WeAgree</a>.
+Slack-fr.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Rejoignez notre groupe "Fresh" sur Slack.</a>
 
 
-OnGitHub.sec=Tous les textes se trouvent sur <a href="http://github.com/CommonAccord/Cmacc-Paris2">GitHub</a>.
+Travail.sec={Doc-code.sec}<li>{SurGitHub.sec}
+
+Doc-code.sec=Nous avons commencé à travailler sur quelques documents en les convertissant et automatisant. Vous pouvez jeter un coup d'oeil aux documents <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/Jurismatic/">Jurismatic</a> et <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/WeAgree/">WeAgree</a>.
+
+
+SurGitHub.sec=Tous les textes se trouvent sur <a href="http://github.com/CommonAccord/Cmacc-Paris2">GitHub</a>.
+
+
+IntroductionEnglish.sec=<b>Overview:</b><ul><li>{AboutUs.sec}<li>{CmAbqc.sec}<li>{WhatWeDo.sec}<li>{HelpUs.sec}<li>{Slack.sec}</ul>
+
+AboutUs.sec=
+
+cmAbqc.sec=
+
+WhatWeDo.sec=
+
+HelpUs.sec=
+
+Slack.sec=
 
 
 SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{Views.List.sec}<li>{PageSource.sec}</ul>
