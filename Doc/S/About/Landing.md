@@ -32,18 +32,19 @@ Doc-code.sec=Nous avons commencé à travailler sur quelques documents en les co
 SurGitHub.sec=Tous les textes se trouvent sur <a href="http://github.com/CommonAccord/Cmacc-Paris2">GitHub</a>.
 
 
-IntroductionEnglish.sec=<b>Overview:</b><ul><li>{AboutUs.sec}<li>{CmAbqc.sec}<li>{WhatWeDo.sec}<li>{HelpUs.sec}<li>{Slack.sec}</ul>
+IntroductionEnglish.sec=<b>Overview:</b><ul><li>{AboutUs.sec}<li>{CmAbqc.sec}<li>{WhatWeDo.sec}<li>{HelpUs.sec}<li>{Slack.sec}<li>{GitHubLink.sec}</ul>
 
-AboutUs.sec=
+AboutUs.sec= Hello There ! We are a group of French Students at Paris II Assas University seeking to make a change and currently collaborating with Common Accord ! 
 
-cmAbqc.sec=
+CmAbqc.sec= <a href="http://commonaccord.org">If you want to look further into Common Accord's work</a>
 
-WhatWeDo.sec=
+WhatWeDo.sec=We have already started working on different types of files and documents. Our work mostly consists in converting them as well as automatizing those files. You can therefore look into <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/Jurismatic/">Jurismatic</a> as well as <a href="http://deux.commonaccord.org/index.php?action=list&file=/GH/Paris2/WeAgree/">WeAgree</a> to see what we have done so far ! 
 
-HelpUs.sec=
+HelpUs.sec= We are relatively new to this whole workflow so feel free to comment on our work. Any help would be really appreciated as we are seeking continuous improvement ! 
 
-Slack.sec=
+GitHubLink.sec= All the files we work on are available on <a href="http://github.com/CommonAccord/Cmacc-Paris2">GitHub</a>.
 
+Slack.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Join us on our "Fresh" Slack group to keep up with our work.</a>
 
 SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{Views.List.sec}<li>{PageSource.sec}</ul>
 
