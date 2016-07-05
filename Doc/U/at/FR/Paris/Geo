@@ -1,9 +1,9 @@
 =[U/at/FR/Geo]
 
-Adr.Ville=Paris
+Ville=Paris
 
-Adr.City={Adr.Ville}
+City={Ville}
 
-Adr.County={Adr.Departement}
+County={Departement}
 
-Adr.Departement=Ile de France		
+Departement=Ile de France		
