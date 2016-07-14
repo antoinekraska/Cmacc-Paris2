@@ -1,3 +1,7 @@
 =[Z/ol/29]
 
+<<<<<<< HEAD
 xlist=<ul type="none"><li>{secs}</ul>
+=======
+xlist=<ul type="none"><li>{secs}</ul>
+>>>>>>> origin/master

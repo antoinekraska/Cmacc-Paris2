@@ -1,64 +1,58 @@
-City={Adr.City}
-
-ST={Adr.ST}
-
-State={Adr.State}
-
-ST={Adr.ST}
-
-Adr.State.the=the {State/Commonwealth} of {Adr.State}
+State.the=the {State/Commonwealth} of {State}
 
 State/Commonwealth=State
 
-Adr.1={Adr.Street.#} {Adr.Street}
+1={Street.#} {Street.Name}
 
-Adr.2={Adr.City}, {Adr.ST}  {Adr.Zip}
+2={City}, {ST}  {Zip}
 
-Adr.Name={Name.Full}
+City,State,Nation={City}, {State}, {Nation}
 
-Adr.1,Suite={Adr.Street.#} {Adr.Street}, {Adr.Suite}
+Name={Name.Full}
 
-Adr.1,2={Adr.1}, {Adr.2}
+1,Suite={Street.#} {Street.Name}, {Suite}
 
-Adr.1/2={Adr.1}<br>{Adr.2}
+1,2={1}, {2}
 
-Adr.1,2,UK={Adr.1} {Adr.2}, {Adr.UK}
+1/2={1}<br>{2}
 
-Adr.1,2,Nation={Adr.1} {Adr.2}, {Adr.UK}
+1,2,UK={1} {2}, {UK}
 
-Adr.1/2/UK={Adr.1}<br>{Adr.2}<br>{Adr.Nation}
+1,2,Nation={1} {2}, {UK}
 
-Adr.1,2,UK,Attn={Adr.1,2,UK}, {Adr.Attn}
+1/2/Nation={1}<br>{2}<br>{Nation}
 
-Adr.1/2/UK/Attn={Adr.1/2/UK}<br>{Adr.Attn}
+1,2,UK,Attn={1,2,UK}, {Attn}
 
-Adr.H,1,2={Adr.Host}, {Adr.1,2}
+1/2/UK/Attn={1/2/UK}<br>{Attn}
 
-Adr.H/1/2={Adr.Host}<br>{Adr.1/2}
+H,1,2={Host}, {1,2}
 
-Adr.H,1,2,UK={Adr.Host}, {Adr.1,2,UK}
+H/1/2={Host}<br>{1/2}
 
-Adr.H/1/2/UK={Adr.Host}<br> {Adr.1/2/UK}
+H,1,2,UK={Host}, {1,2,UK}
 
-Adr.N,1,2={Adr.Name}, {Adr.1,2}
+H/1/2/UK={Host}<br> {1/2/UK}
 
-Adr.N/1/2={Adr.Name}<br>{Adr.1/2}
+N,1,2={Name}, {1,2}
 
-Adr.N,1,2,UK={Adr.Name}, {Adr.1,2,UK}
+N/1/2={Name}<br>{1/2}
 
-Adr.N/1/2/UK={Adr.Name}<br>{Adr.1/2/UK}
+N,1,2,UK={Name}, {1,2,UK}
 
-Adr.N,H,1,2,UK={Adr.Name}, {Adr.H,1,2,UK}
+N/1/2/UK={Name}<br>{1/2/UK}
 
-Adr.N/H/1/2={Adr.Name}<br>{Adr.H/1/2}
+N,H,1,2,UK={Name}, {H,1,2,UK}
 
-Adr.N/H/1/2/UK={Adr.Name}<br>{Adr.H/1/2/UK}
+N/H/1/2={Name}<br>{H/1/2}
 
-Adr.N,H,1,2,UK,Attn={Adr.Name}, {Adr.H,1,2,UK}, {Adr.Attn}
+N/H/1/2/UK={Name}<br>{H/1/2/UK}
 
-Adr.N/H/1/2/UK/Attn={Adr.Name}<br>{Adr.H/1/2/UK}<br>{Adr.Attn}
+N,H,1,2,UK,Attn={Name}, {H,1,2,UK}, {Attn}
+
+N/H/1/2/UK/Attn={Name}<br>{H/1/2/UK}<br>{Attn}
 
 
 Model.Root={Geo.?}
 
-Geo.?=<ul><li><table><tbody><tr><td><strong>N/H/1/2/UK/Attn:</strong></td><td><span style="background-color:#FFFFE0">{Adr.N/H/1/2/UK/Attn}</span></td></tr></tbody></table></li><li><strong>County:</strong>= <span style="background-color:#FFFFE0">{County}</span></li><li><strong>City:</strong>= <span style="background-color:#FFFFE0">{City}</span></li><li><strong>ST:</strong><span style="background-color:#FFFFE0">{ST}</span></li><li><strong>State:</strong><span style="background-color:#FFFFE0">{State}</span></li><li><strong>Flower:</strong><span style="background-color:#FFFFE0">{Flower}</span></li><li><strong>Zip.List</strong>: <span style="background-color:#FFFFE0">{Adr.Zip.List}</span></li><li><strong>Nation</strong>: <span style="background-color:#FFFFE0">{Nation}</span></li></ul>
+Geo.?=<ul><li><table><tbody><tr><td><strong>N/H/1/2/UK/Attn:</strong></td><td><span style="background-color:#FFFFE0">{N/H/1/2/UK/Attn}</span></td></tr></tbody></table></li><li><strong>County:</strong>= <span style="background-color:#FFFFE0">{County}</span></li><li><strong>City:</strong>= <span style="background-color:#FFFFE0">{City}</span></li><li><strong>ST:</strong><span style="background-color:#FFFFE0">{ST}</span></li><li><strong>State:</strong><span style="background-color:#FFFFE0">{State}</span></li><li><strong>Flower:</strong><span style="background-color:#FFFFE0">{Flower}</span></li><li><strong>Zip.List</strong>: <span style="background-color:#FFFFE0">{Zip.List}</span></li><li><strong>Nation</strong>: <span style="background-color:#FFFFE0">{Nation}</span></li></ul>

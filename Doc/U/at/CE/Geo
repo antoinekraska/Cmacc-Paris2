@@ -2,13 +2,13 @@
 
 US.=[U/class/Geo_USA]
 
-Adr.FR=FR
+FR=FR
 
-Adr.UK=CH
+UK=CH
 
-Adr.Nation=Suisse
+Nation=Suisse
 
-Adr.Nation=Switzerland
+Nation=Switzerland
 
 Model.Root={Geo.?}<br><br>{US.Geo.?}<br><br>
 			
