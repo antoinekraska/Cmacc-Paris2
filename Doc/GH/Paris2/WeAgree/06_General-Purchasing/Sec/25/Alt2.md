@@ -14,6 +14,8 @@ Ti=ACCEPTANCE TESTING OF DELIVERABLES
 
 1.2.=[Z/Alt/2]
 
+1.2.SecName=1.2
+
 2.Ti=Timing
 
 2.sec=Supplier shall deliver each Milestone to Customer in accordance with the Time Schedule. Delivery by Supplier shall take place on the dates specified in the Statement of Work as their respective dates for delivering such Milestones. If Supplier requests the delivery to take place on a date preceding such date, Customer shall not unreasonably reject the request. If time is of the essence in respect of completion of any part of the Product and the completion or delivery cannot take place on or before the agreed date of completion or delivery for reasons specified in Section {Xnum}.3, Customer shall not be required to accept the Milestone.
