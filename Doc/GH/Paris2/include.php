@@ -11,4 +11,6 @@ Ces documents nécessitent encore du travail afin d'être complets. Votre aide e
 </ul>
 
 Nous vous invitons à jeter un coup d'oeil à la <a href="index.php?action=doc&file=/GH/Paris2/Jurismatic/PAF/Demo-Roberta-Acme.md">démonstration du Pacte d'Associés fondateurs</a>. 
+
+IMPORTANT : D'importantes modifications sont en cours --> certains documents sont momentanément indisponibles. 
  
