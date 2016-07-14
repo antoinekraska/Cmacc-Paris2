@@ -102,6 +102,6 @@ Why.=[Z/paras/s4]
 
 5.=[Z/paras/s2]
 
-=[zForm/Agt/FR/Frame/2Parties/0.md]
+=[zF/Agt/FR/Frame/2Parties/0.md]
 
 =[Z/ol/5]
