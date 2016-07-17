@@ -6,7 +6,7 @@ P3.=[U/id/solomon_shirley.md]
 
 Frame.=[zF/Agt/US/Frame/3Parties/0.md]
 
-Co.=[U/id/Acme_sarl.md]  
+Co.=[U/id/Acme_SARL.md]  
 
 EffectiveDate.YMD=2016-07-16
 

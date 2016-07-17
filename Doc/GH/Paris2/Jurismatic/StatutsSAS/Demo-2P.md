@@ -2,7 +2,7 @@ P1.=[U/id/abigail_altima.md]
 
 P2.=[U/id/andrea_ang.md]
 
-Co.=[U/id/acme_sarl.md]
+Co.=[U/id/Acme_SARL.md]
 
 Frame.=[zF/Agt/FR/Frame/2Parties/0.md]  
 
