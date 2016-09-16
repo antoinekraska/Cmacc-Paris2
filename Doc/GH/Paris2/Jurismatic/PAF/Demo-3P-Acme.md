@@ -4,7 +4,7 @@ P2.=[U/id/andrea_ang.md]
 
 P3.=[U/id/solomon_shirley.md] 
 
-Frame.=[zF/Agt/US/Frame/3Parties/0.md]
+Frame.=[zF/Agt/FR/Frame/3Parties/0.md]
 
 Co.=[U/id/Acme_SARL.md]  
 
