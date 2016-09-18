@@ -1,8 +1,14 @@
+Accord.Sign.Date=18 septembre 2016
+
+Accord.Sign.Lieu=Paris
+
 P1.=[U/id/geraldine_graber.md]
 
 P2.=[U/id/andrea_ang.md]  
 
 P3.=[U/id/solomon_shirley.md] 
+
+Note=Comment retirer la partie "Handle" ? 
 
 Frame.=[zF/Agt/FR/Frame/3Parties/0.md]
 

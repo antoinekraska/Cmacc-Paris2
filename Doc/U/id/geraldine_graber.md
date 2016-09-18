@@ -4,7 +4,25 @@
 
 Name.First=Geraldine
 
-Contact.Name.Last=Graber
+Name.Last=Graber
+
+Birth.YMD=1962-07-22
+
+Birth.Adr.City,State,Nation=Los Angeles, California, United States of America
+
+Citizen.nationality.FR=américaine
+
+Work.profession.FR=bibliothécaire
+
+Adr.Street.#=
+
+Adr.Street.Name=
+
+Adr.Zip=
+
+Adr.City=
+
+Adr.Nation=
 
 Adr.Type=business
 
