@@ -1,12 +1,12 @@
 Name.Given=Acme
 
-EntityType=SARL
+Personality.Type.FR=SARL
 
 Adr.Type=registered
 
 Cap.All.#=100.000 Euros
 
-Cap.All.Spelled.FR=Cent Mille Euros
+Capital.All.FR=Cent Mille Euros
 
 Cap.Total.Amount.Spelled.FR=
 
