@@ -2,7 +2,7 @@ Accord.Sign.Date=19 septembre 2016
 
 Accord.Sign.Lieu=Paris
 
-P1.=[U/id/acme_sarl.md]
+P1.=[U/id/Acme_SARL.md]
 
 P2.=[U/id/quake_incorporated.md]  
 
