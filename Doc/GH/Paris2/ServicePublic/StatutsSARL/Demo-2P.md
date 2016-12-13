@@ -1,0 +1,11 @@
+P1.=[U/id/abigail_altima.md]
+
+P2.=[U/id/andrea_ang.md]
+
+Co.=[U/id/Acme_SARL.md]
+
+Frame.=[zF/Agt/FR/Frame/2Parties/0.md]  
+
+EffectiveDate.YMD=2016-07-16
+
+=[GH/Paris2/ServicePublic/StatutsSARL/Form/0.md]

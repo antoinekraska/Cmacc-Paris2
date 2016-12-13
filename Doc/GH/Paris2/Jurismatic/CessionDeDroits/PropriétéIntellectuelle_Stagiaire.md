@@ -1,4 +1,4 @@
-Ti=CONTRAT DE CESSION DE DROITS DE PROPRIÉTÉ INTELLECTUELLE ( STAGIAIRE ) 
+Agt.Ti=CONTRAT DE CESSION DE DROITS DE PROPRIÉTÉ INTELLECTUELLE ( STAGIAIRE ) 
 0.1.sec=ENTRE LES SOUSSIGNÉ(E)S :<br><br>
 0.2.sec=Monsieur ou madame {Nom_Prénom}
 0.3.sec=Né(e) le {Date_Naissance} à {Lieu_Naissance}
@@ -66,4 +66,9 @@ Ti=CONTRAT DE CESSION DE DROITS DE PROPRIÉTÉ INTELLECTUELLE ( STAGIAIRE )
 4.5.sec=Pour le Cédant : {Nom_Prénom}<br><br>
 4.6.sec=Pour le Cessionnaire :{Nom_Prénom}
 4.=[Z/paras/s6]
-=[Z/ol/s4]  
+
+Frame.=[zF/Agt/FR/Frame/2Parties/0.md]
+
+=[zF/Agt/FR/Form/0.md]
+
+=[Z/ol/s4]

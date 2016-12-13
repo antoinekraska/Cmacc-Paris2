@@ -12,7 +12,7 @@ Intro.Sec={IntroductionFrench.sec}<br>{IntroductionEnglish.sec}<br>{SiteLinks.Se
 
 IntroductionFrench.sec=<b>Présentation:</b><ul><li>{APropos.sec}<li>{Cmacc-fr.sec}<li>{Travail.sec}<li>{Aide.sec}<li>{Slack-fr.sec}</ul>
 
-APropos.sec=Bienvenue sur notre page! Nous sommes un groupe d’étudiants du Collège de Droit de l’Université Paris II Panthéon-Assas et participons au projet de CommonAccord.
+APropos.sec=Bienvenue sur notre page! Nous sommes un groupe d’étudiants de l’Université Paris II Panthéon-Assas et participons au projet de CommonAccord.
 
 
 Cmacc-fr.sec=<a href="http://commonaccord.org">En savoir plus sur CommonAccord</a>

@@ -1,12 +1,12 @@
 Name.Given=Acme
 
-EntityType=SARL
+Personality.Type.FR=SARL
 
 Adr.Type=registered
 
 Cap.All.#=100.000 Euros
 
-Cap.All.Spelled.FR=Cent Mille Euros
+Capital.All.FR=Cent Mille Euros
 
 Cap.Total.Amount.Spelled.FR=
 
@@ -32,6 +32,8 @@ Corp.Cap.1.Price.Spelled.FR=
 
 Corp.Purpose=
 
+Adr.All={Adr.1}, {Adr.Zip} {Adr.City}, {Adr.Nation}
+
 Adr.1=101 rue Partout
 
 Adr.Zip=75001
@@ -46,10 +48,12 @@ Email=france@acme.com
 
 RCS.#=RCS PARIS 453 983 245
 
+RCS.N=453 983 245
+
 Phone=+33.1.23.45.67.89
 
 Fax=+33.1.23.45.67.90
 
 Dirigeant1.Titre=Gérant
 
-=[zID/0/Entity/0.md]
+=[zID/00/Entity/0.md]

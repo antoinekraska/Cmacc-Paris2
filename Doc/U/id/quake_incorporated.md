@@ -1,4 +1,4 @@
-=[zID/0/Entity/0.md]
+=[zID/00/Entity/0.md]
 
 Adr.=[U/at/US/CA/San_Mateo/Menlo_Park/Geo]
 
@@ -19,7 +19,7 @@ Fax=1.650.555.5511
 
 Capital.All.FR=Trois cents milles dollars US
 
-Personality.Type.FR="corporation" à liabilité limitée de Delaware
+Personality.Type.FR=Société à responsabilité limitée de Delaware
 
 Personality.Type.a.EN=a Delaware LLC
 
