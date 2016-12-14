@@ -1,12 +1,12 @@
-Ti=CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE  
+Agt.Ti=CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE  
 
 1.Ti=Engagement
 
-1.1.1.sec=La Société engage le Salarié en qualité de [fonction] à compter du [date], sous réserve des résultats de la visite médicale d’embauche.
+1.1.1.sec=La Société engage le Salarié en qualité de {fonction} à compter du {date}, sous réserve des résultats de la visite médicale d’embauche.
 
-1.1.2.sec=Cette qualification correspond au statut [statut indiqué par la convention collective], position [position], coefficient [coefficient], prévu par la Convention Collective applicable aux présentes.
+1.1.2.sec=Cette qualification correspond au statut {statut indiqué par la convention collective}, position {position}, coefficient {coefficient}, prévu par la Convention Collective applicable aux présentes.
 
-1.1.3.sec=Le Salarié sera notamment chargé de [définir le poste].
+1.1.3.sec=Le Salarié sera notamment chargé de {définir le poste}.
 
 1.1.4.sec=Le Salarié déclare formellement être libre de tout engagement et n’être lié par aucune clause de non concurrence avec un précédent employeur.
 
@@ -14,9 +14,9 @@ Ti=CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE
 
 1.2.sec=Le présent contrat est soumis aux dispositions de la convention collective nationale des Bureaux d’Etudes Techniques, Cabinets d’Ingénieurs-conseils, sociétés de conseil, dite SYNTEC-CICF du 15 décembre 1987 étendue et complétée, (Brochure JO n°3018 – IDCC 1486) (ci-après : la « Convention Collective »), accessible sur le site internet Légifrance et dont un exemplaire est à la disposition des salariés dans les locaux de l’entreprise.
 
-1.3.1.sec=La déclaration préalable à l’embauche a été effectuée auprès de l’URSSAF de [ville] le [date].
+1.3.1.sec=La déclaration préalable à l’embauche a été effectuée auprès de l’URSSAF de {ville} le {date}.
 
-1.3.2.sec=En application de la loi n° 78-17 du 6 janvier 1978 dite « Informatique et Libertés », le Salarié dispose d’un droit d’accès et de rectification des informations portées sur ce document, qu’il peut exercer auprès de l’URSSAF de [ville].
+1.3.2.sec=En application de la loi n° 78-17 du 6 janvier 1978 dite « Informatique et Libertés », le Salarié dispose d’un droit d’accès et de rectification des informations portées sur ce document, qu’il peut exercer auprès de l’URSSAF de {ville}.
 
 1.3.=[Z/paras/s2]
 
@@ -26,7 +26,7 @@ Ti=CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE
 
 2.1.sec=Le Salarié est engagé afin de permettre à la Société de faire face à un accroissement temporaire d’activité.
  
-2.2.sec=Le présent contrat, qui prend effet le [date], est conclu pour une durée de [durée en mois], soit jusqu’au [date] inclus.
+2.2.sec=Le présent contrat, qui prend effet le {date}, est conclu pour une durée de {durée en mois}, soit jusqu’au {date} inclus.
  
 2.3.sec=Il prendra fin automatiquement à l’échéance du terme.
  
@@ -36,7 +36,7 @@ Ti=CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE
 
 3.Ti=Période d'essai
 
-3.1.sec=Le présent contrat est conclu sous réserve d’une période d’essai de [durée] expirant le [date].
+3.1.sec=Le présent contrat est conclu sous réserve d’une période d’essai de {durée} expirant le {date}.
  
 3.2.sec=Au cours de cette période, le contrat pourra être rompu par l’une ou l’autre des parties, à tout moment, sous réserve, en cas de rupture par l’employeur, du respect du délai de prévenance prévu à l’article L.1221-25 du Code du travail.
  
@@ -56,9 +56,9 @@ Ti=CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE
 
 5.Ti=Lieu de travail, mobilité
 
-5.1.sec=Le Salarié exercera ses fonctions à [ville].
+5.1.sec=Le Salarié exercera ses fonctions à {ville}.
 
-5.2.1.sec=Toutefois, compte tenu de ses fonctions et conformément aux nécessités et à l’intérêt de la Société, le Salarié pourra être amené à travailler en un autre lieu situé en [région], sans que cela ne constitue une modification de son contrat de travail, ce que le Salarié reconnaît expressément par la signature des présentes.
+5.2.1.sec=Toutefois, compte tenu de ses fonctions et conformément aux nécessités et à l’intérêt de la Société, le Salarié pourra être amené à travailler en un autre lieu situé en {région}, sans que cela ne constitue une modification de son contrat de travail, ce que le Salarié reconnaît expressément par la signature des présentes.
 
 5.2.2.sec=Le Salarié déclare avoir pris connaissance de la présente clause de mobilité, et donne son consentement à toute mutation, provisoire ou définitive, qui pourrait intervenir à la demande de l’employeur, en application de son pouvoir de direction, dans la zone géographique telle que définie à la présente clause.
 
@@ -70,7 +70,7 @@ Ti=CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE
 
 6.Ti=Rémunération
 
-6.1.sec=La rémunération mensuelle brute du Salarié est fixée à [montant en chiffres et en lettres] euros, pour la durée de travail prévue au présent contrat, sur 12 (douze) mois.
+6.1.sec=La rémunération mensuelle brute du Salarié est fixée à {montant en chiffres et en lettres} euros, pour la durée de travail prévue au présent contrat, sur 12 (douze) mois.
 
 6.2.1.sec=Cette rémunération inclut la cession des droits patrimoniaux d’auteur du Salarié prévus à l’article 12 des présentes, dont le prix de cession est contractuellement fixé à 10 % de la dite rémunération.
 
@@ -124,7 +124,7 @@ Ti=CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE
 
 11.1.=[Z/paras/s2]
 
-11.2.1.sec=Le Salarié reconnaît et accepte, tant à l'occasion de l'exécution de son contrat de travail que pendant une durée de [mois] après la cessation de celui-ci, pour quelque raison que ce soit, être lié à la Société ou à toute autre entité juridiquement liée à elle, par le secret professionnel et une obligation de discrétion absolue.
+11.2.1.sec=Le Salarié reconnaît et accepte, tant à l'occasion de l'exécution de son contrat de travail que pendant une durée de {mois} après la cessation de celui-ci, pour quelque raison que ce soit, être lié à la Société ou à toute autre entité juridiquement liée à elle, par le secret professionnel et une obligation de discrétion absolue.
 
 11.2.2.sec=En particulier, le Salarié s'engage à ne pas communiquer, ni utiliser pour son compte ou pour le compte de tiers, quelque information ou document que ce soit concernant la Société, ses clients, les tiers en relation avec elle ; que ces informations portent sur des techniques, les actions commerciales, le personnel ou tout autre sujet en rapport direct ou indirect avec l'activité de l'entreprise. Les documents, études fiches, fichiers, matériels ou tout autre moyen mis à sa disposition, sur quelque support que ce soit, pour l'exercice de ses fonctions, sont et restent la propriété de la Société ou de ses clients, et devront être restitués à la Société dès la fin du contrat de travail.
 
@@ -240,12 +240,16 @@ Ti=CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE
 
 15.Ti=Avantages sociaux
 
-15.1.sec=Le Salarié bénéficiera des lois sociales instituées en faveur des salariés notamment en matière de sécurité sociale et en ce qui concerne le régime de retraite complémentaire. Il relève la catégorie des [cadres ou employés] et sera affilié dès son entrée au sein de la Société :
+15.1.sec=Le Salarié bénéficiera des lois sociales instituées en faveur des salariés notamment en matière de sécurité sociale et en ce qui concerne le régime de retraite complémentaire. Il relève la catégorie des {cadres ou employés} et sera affilié dès son entrée au sein de la Société :
 
-15.2.sec=- à la caisse de retraite complémentaire dont relève la Société : [Nom et adresse à compléter],
+15.2.sec=- à la caisse de retraite complémentaire dont relève la Société : {Nom et adresse à compléter},
 
-15.3.sec=- au régime de prévoyance géré par : [Nom et adresse à compléter].
+15.3.sec=- au régime de prévoyance géré par : {Nom et adresse à compléter}.
 
 15.=[Z/paras/s3]
+
+=[zF/Agt/FR/Form/0.md]
+
+Frame.=[zF/Agt/FR/Frame/2Parties/0.md]  
 
 =[Z/ol/15]
