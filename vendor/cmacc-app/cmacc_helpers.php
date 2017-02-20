@@ -27,18 +27,18 @@ switch ($_REQUEST['action']) {
 
    case 'doc':
 
-        include('./view/doc.php');
+        include('./vendor/cmacc-app/view/doc.php');
         break;
 
     case 'edit':
 
-        include('./view/edit.php');
+        include('./vendor/cmacc-app/view/edit.php');
         break;
 
 
    case 'html':
 
-        include('./view/html.php');
+        include('./vendor/cmacc-app/view/html.php');
         break;
 
     case 'ipld':
@@ -70,32 +70,70 @@ switch ($_REQUEST['action']) {
         $filenameX = basename($dir);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./view/ipld.php");
+        include("./vendor/cmacc-app/view/ipld.php");
+
+        break;
+
+case 'jaw':
+
+        if (isset($_REQUEST['submit'])) {
+
+            $file_name = $path . $dir;
+
+            if (file_exists($file_name)) {
+
+                if (is_writeable($file_name)) {
+                    $fp = fopen($file_name, "w");
+                    $data = $_REQUEST['newcontent'];
+                    $data = preg_replace('/\r\n/', "\n", $data);
+                    $data = trim($data);
+                    fwrite($fp, $data);
+                    fclose($fp);
+                } else {
+                    print '<span style="color: red">ERROR: File ' . $dir . ' is not write able.</style>';
+                }
+            } else {
+                print '<span style="color: red">ERROR: File ' . $dir . ' does not exists.</style>';
+            }
+        }
+
+        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
+        $contents = explode("\n", $content);
+        $rootdir = pathinfo($dir);
+        $filenameX = basename($dir);
+
+        //source.php includes the formatting for the table that displays the components of a document
+        include("./vendor/cmacc-app/view/jaw.php");
 
         break;
 
 
     case 'list':
 
-        include('./view/list.php');
+        include('./vendor/cmacc-app/view/list.php');
         break;
 
 
    case 'openedit':
 
-        include('./view/openedit.php');
+        include('./vendor/cmacc-app/view/openedit.php');
         break;
 
 
    case 'print':
 
-        include('./view/print.php');
+        include('./vendor/cmacc-app/view/print.php');
+        break;
+
+   case 'kv':
+
+        include('./vendor/cmacc-app/view/print-kvs.php');
         break;
 
 
    case 'raw':
 
-        include('./view/raw.php');
+        include('./vendor/cmacc-app/view/raw.php');
         break;
 
     case 'source':
@@ -125,7 +163,7 @@ switch ($_REQUEST['action']) {
         $contents = explode("\n", $content);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./view/source.php");
+        include("./vendor/cmacc-app/view/source.php");
 
         break;
 
