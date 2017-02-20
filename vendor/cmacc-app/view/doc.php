@@ -8,7 +8,7 @@ if (strlen($htmlHead) > 5){
 }
 
  else {
-   echo "<!DOCTYPE html><head><head><title>$dir</title><link  href='Doc/Z/CSS/Doc.css' rel='stylesheet' /></head><body>";
+   echo "<!DOCTYPE html><head><title>$dir</title><link  href='Doc/Z/CSS/Doc.css' rel='stylesheet' /></head><body>";
  }
 
 
@@ -24,9 +24,9 @@ $minDocLength = 1;
 
 if (strlen($document) > $minDocLength){ 
 
-$document=str_replace("{","<font color='red'>{",$document);
+$document=str_replace("{","<span class='missing'>{",$document);
 
-$document=str_replace("}","}</font>",$document);
+$document=str_replace("}","}</span>",$document);
 
   echo $document;}
  else {
