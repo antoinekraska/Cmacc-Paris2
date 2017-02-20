@@ -1,3 +1,23 @@
+body { 
+    background-color: #ffffff;
+}
+
+.paras {
+padding: 10px 0px 0px 0px;
+}
+
+.paras li {
+padding: 0px 0px 0px 0px;
+}
+
+span { 
+    background-color: #ffffff;
+}
+
+span :hover { 
+    background-color: #f0f0ff;
+}
+
 .token {
 	color: maroon ;
         text-decoration: none;
@@ -13,8 +33,11 @@
         text-decoration: none;
 }  
 
+
 .xref {
-	color: darkblue ;
+	color: blue ;
+        text-decoration: none;
+
 }  
 
 
@@ -23,3 +46,7 @@
        
 }
 
+.missing {
+	color: red ;
+       
+}
