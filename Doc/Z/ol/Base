@@ -49,9 +49,9 @@ nlist=<ul type="none"><li>{secs}</li></ul>
 
 /blist = for "break list" e.g. < br>
  
-Blist=<ul class="paras" type="none" style="padding-left: 0"><li>{Secs}</ul>
+Blist=<ul class="paras" type="none" style="padding-left: 0"><li>{Secs}</ul><br>
 
-blist=<ul class="paras" type="none" style="padding-left: 0; " ><li>{secs}</ul>
+blist=<ul class="paras" type="none" style="padding-left: 0; " ><li>{secs}</ul><br>
 
 Note=This avoids the need for cluttering a list with a separate Z/ol/0 for each section that has only a simple sec text.  It also forces you to put the reference to any Z/… at the bottom. 
 
